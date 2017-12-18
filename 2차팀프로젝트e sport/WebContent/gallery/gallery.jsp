@@ -302,6 +302,14 @@ to {
 	}
 }
 </style>
+
+<script type="text/javascript">
+var pager =function(options){
+	
+	
+}
+</script>
+
 </head>
 <body>
 
